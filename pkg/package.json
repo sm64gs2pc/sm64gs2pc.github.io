@@ -1,0 +1,15 @@
+{
+  "name": "sm64gs2pc-web",
+  "collaborators": [
+    "Benjamin Levy <blevy@protonmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "sm64gs2pc_web_bg.wasm",
+    "sm64gs2pc_web.js",
+    "sm64gs2pc_web.d.ts"
+  ],
+  "module": "sm64gs2pc_web.js",
+  "types": "sm64gs2pc_web.d.ts",
+  "sideEffects": false
+}
